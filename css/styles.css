@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+p{
+    size: 20px;
+    color: rgb(81, 133, 188);
+}    
+img{
+    background-color: purple;
+}
+.mushroom{
+    background-color: white;
+}
+.cherry{
+    background-color: darkred;
+}
+.cireclar{
+    border-radius: 100%;
+}
